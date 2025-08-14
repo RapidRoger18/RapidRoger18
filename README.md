@@ -38,7 +38,7 @@ Adaptive, hardware-friendly prefetching mechanism built in **ChampSim** using **
 Learns **stride, locality, and correlation patterns** dynamically, without hardcoded switching between prefetchers.  
 Designed to be **FPGA-friendly** for potential real-world hardware integration.  
 
-### 🧠 **[BeagleBoard.org – GSoC 2024](https://RapidRoger18.github.io/assets/Atharva_Kashalkar_GSOC.pdf)**
+### 🧠 **[BeagleBoard.org – GSoC 2024](https://RapidRoger18/assets/Atharva_Kashalkar_GSOC.pdf)**
 Developed a softcore RISC-V CPU subsystem on the BeagleV-Fire FPGA, equivalent to the PRU on BeagleBone Black, optimized for ultra-low-latency I/O. 
 Implemented in Verilog with Linux-accessible APIs for real-time peripheral control.
 ---
@@ -62,6 +62,6 @@ Implemented in Verilog with Linux-accessible APIs for real-time peripheral contr
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvakashalkar1804@gmail.com)  
 
 ---
-[📄 View My Resume](https://RapidRoger18.github.io/assets/Atharva_Kashalkar_Resume.pdf)
+[📄 View My Resume](https://RapidRoger18/assets/Atharva_Kashalkar_resume.pdf)
 
 > *"Curiosity is my clock — it never stops ticking."*
